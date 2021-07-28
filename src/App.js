@@ -16,7 +16,7 @@ function App() {
         <Header/>
         <About/>
         <Services/>
-        <Callout/>
+        {/*<Callout/>*/}
         <Portfolio/>
         <CallToAction/>
         <Footer/>
