@@ -12,14 +12,14 @@ import Portfolio from './Components/Portfolio/Portfolio'
 function App() {
   return (
     <div className="App" id="root">
-      <Nav/>
-      <Header/>
-      <About/>
-      <Services/>
-      <Callout/>
-      <Portfolio/>
-      <CallToAction/>
-      <Footer/>
+        <Nav/>
+        <Header/>
+        <About/>
+        <Services/>
+        <Callout/>
+        <Portfolio/>
+        <CallToAction/>
+        <Footer/>
     </div>
   );
 }
