@@ -10,10 +10,10 @@ export default function About () {
                         <p class="lead mb-5">
                             Throughout my studies I've learned how to code in C#, Java, HTML, CSS, PHP, Javascript, Node.js, React and JSX. 
                             Though I've recently started to specialize in web development, I've also attained A+ certification and graduated 
-                            from Douglas College with a diploma in Computing and Information Systems. Check me out on <a href="https://github.com/mkdyrndahl?tab=repositories">Github</a> 
-                            and <a href="https://www.linkedin.com/in/matthew-dyrndahl-944539218/"> LinkedIn</a>!
+                            from Douglas College with a diploma in Computing and Information Systems. Check me out on <a href="https://github.com/mkdyrndahl?tab=repositories">Github</a> and 
+                            <a href="https://www.linkedin.com/in/matthew-dyrndahl-944539218/"> LinkedIn</a>!
                         </p>
-                        <a class="btn btn-light btn-l" href="#services">What We Offer</a>
+                        <a class="btn btn-light btn-l" href="#services">What I Offer</a>
                     </div>
                 </div>
             </div>
