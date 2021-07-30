@@ -26,10 +26,12 @@ export default function Services()  {
                             Simply put, simplicity makes things easy.
                         </p>
                     </div>
-                    <div class="col-lg-3 col-md-6">
+                    <div class="col-lg-3 col-md-6 mb-5 mb-md-0">
                         <span class="service-icon rounded-circle mx-auto mb-3"><i class="icon-mustache"></i></span>
                         <h4><strong>Polished</strong></h4>
-                        <p class="text-faded mb-0">Your website will be stylish and functional.</p>
+                        <p class="text-faded mb-0">
+                            Your website will be stylish and functional.
+                        </p>
                     </div>
                 </div>
             </div>
