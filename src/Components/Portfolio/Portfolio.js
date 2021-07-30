@@ -11,11 +11,11 @@ export default function Portfolio() {
                     </div>
                     <div class="row gx-0">
                         <div class="col-lg-6">
-                            <a class="portfolio-item" href="https://www.youtube.com/watch?v=tsKmoCTLg9I">
+                            <a class="portfolio-item" href="https://github.com/mkdyrndahl/reviewify_app">
                                 <div class="caption">
                                     <div class="caption-content">
                                         <div class="h2">Reviewify</div>
-                                        <p class="mb-0">A full-stack media review web app which makes use of a custom webservice, mongoDB, react, and nodeJS!</p>
+                                        <p class="mb-0">A full-stack media review web app which makes use of a custom webservice, mongoDB, react, and nodeJS. All HTTP methods included!</p>
                                     </div>
                                 </div>
                                 <img class="img-fluid" src="assets/img/reviewify-1.jpg" alt="..." />
