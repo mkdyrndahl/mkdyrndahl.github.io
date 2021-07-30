@@ -25,7 +25,7 @@ export default function Portfolio() {
                             <a class="portfolio-item" href="#!">
                                 <div class="caption">
                                     <div class="caption-content">
-                                        <div class="h2">Ice Cream</div>
+                                        <div class="h2">Placeholder!</div>
                                         <p class="mb-0">A dark blue background with a colored pencil, a clip, and a tiny ice cream cone!</p>
                                     </div>
                                 </div>
@@ -36,7 +36,7 @@ export default function Portfolio() {
                             <a class="portfolio-item" href="#!">
                                 <div class="caption">
                                     <div class="caption-content">
-                                        <div class="h2">Strawberries</div>
+                                        <div class="h2">Placeholder!</div>
                                         <p class="mb-0">Strawberries are such a tasty snack, especially with a little sugar on top!</p>
                                     </div>
                                 </div>
@@ -47,7 +47,7 @@ export default function Portfolio() {
                             <a class="portfolio-item" href="#!">
                                 <div class="caption">
                                     <div class="caption-content">
-                                        <div class="h2">Workspace</div>
+                                        <div class="h2">Placeholder!</div>
                                         <p class="mb-0">A yellow workspace with some scissors, pencils, and other objects.</p>
                                     </div>
                                 </div>
