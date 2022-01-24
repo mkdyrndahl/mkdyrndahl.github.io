@@ -9,7 +9,7 @@ export default function About () {
                         <h2>Highly Motivated, Committed to Learning</h2>
                         <p class="lead mb-5">
                             Throughout my studies I've learned how to code in C#, Java, HTML, CSS, PHP, Javascript, Node.js, React and JSX. 
-                            Though I've recently started to specialize in web development, I've also attained A+ certification and graduated 
+                            Though I've recently started to specialize in web development, I've also graduated 
                             from Douglas College with a diploma in Computing and Information Systems. Check me out on <a href="https://github.com/mkdyrndahl?tab=repositories">Github</a> and 
                             <a href="https://www.linkedin.com/in/matthew-dyrndahl-944539218/"> LinkedIn</a>!
                         </p>

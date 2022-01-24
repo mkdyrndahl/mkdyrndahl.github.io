@@ -22,17 +22,17 @@ export default function Portfolio() {
                             </a>
                         </div>
                         <div class="col-lg-6">
-                            <a class="portfolio-item" href="#!">
+                            <a class="portfolio-item" href="https://github.com/mkdyrndahl/globalEmissions_webapp">
                                 <div class="caption">
                                     <div class="caption-content">
-                                        <div class="h2">Placeholder!</div>
-                                        <p class="mb-0">A dark blue background with a colored pencil, a clip, and a tiny ice cream cone!</p>
+                                        <div class="h2">Visualization of Global Emissions</div>
+                                        <p class="mb-0">A full stack MERN web application which allows users to visualize global emissions data.</p>
                                     </div>
                                 </div>
                                 <img class="img-fluid" src="assets/img/portfolio-2.jpg" alt="..." />
                             </a>
                         </div>
-                        <div class="col-lg-6">
+                        {/* <div class="col-lg-6">
                             <a class="portfolio-item" href="#!">
                                 <div class="caption">
                                     <div class="caption-content">
@@ -53,7 +53,7 @@ export default function Portfolio() {
                                 </div>
                                 <img class="img-fluid" src="assets/img/portfolio-4.jpg" alt="..." />
                             </a>
-                        </div>
+                        </div> */}
                     </div>
                 </div>
             </section>
